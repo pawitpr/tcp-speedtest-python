@@ -33,7 +33,7 @@ client:
     <open the client.py and change server ip to your server ip > 
 
     python client.py
-    
+```
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
