@@ -42,4 +42,5 @@ client:
 ## Features
 
 - Faster 
-- Support 4Gb/ps <change the buffer size>
+- Support 75+ client for the speedtest
+
