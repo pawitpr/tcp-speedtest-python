@@ -1,8 +1,6 @@
 
 # TCP Speed test server
-
-If you use a speedtest like speedtest.net is used http websocket for spedesting but if you need more fast speed so you need to use TCP  or UDP
-
+# TCP Speed test server
 
 
 
